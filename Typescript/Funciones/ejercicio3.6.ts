@@ -12,4 +12,4 @@ capitalize = function (value: string): string {
 }
 
 console.log('[Ejercicio 3.6]', capitalize(`habil ${multiply(5, 10)}`));
-// Arreglar los errores
+// Arreglar los errores ✅

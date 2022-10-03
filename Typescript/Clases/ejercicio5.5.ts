@@ -17,9 +17,9 @@ class Chair extends Furniture {
 
 const desk = new Desk();
 desk.kind();
-// desk.manufacturer; // debe devolver error
+// desk.manufacturer; // debe devolver error ✅
 
 const chair = new Chair();
 chair.kind();
-// chair.manufacturer; // debe devolver error
-// 1 Hacer que solo las clases Desk y Chair puedan ver el miembro del fabricante
+// chair.manufacturer; // debe devolver error ✅
+// 1 Hacer que solo las clases Desk y Chair puedan ver el miembro del fabricante ✅

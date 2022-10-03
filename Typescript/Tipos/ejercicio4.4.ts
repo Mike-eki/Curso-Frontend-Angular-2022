@@ -71,8 +71,8 @@ console.log(
   `Tenemos un ${interrogateAnimal()} en nuestras manos!`
 );
 // 1 Las aves y los peces ponen huevos. Sólo los pájaros vuelan. Sólo los peces nadan. Defina
-// dos tipos nuevos: ‘BirdLike‘ y ‘FishLike‘ basados en estos rasgos
-// 2 Crea un alias de tipo para ‘Bird OR Fish‘ llamado ‘Animal‘
+// dos tipos nuevos: ‘BirdLike‘ y ‘FishLike‘ basados en estos rasgos ✅
+// 2 Crea un alias de tipo para ‘Bird OR Fish‘ llamado ‘Animal‘ ✅
 // 3 Use ‘instanceof‘ en ‘interrogateAnimal‘ para permitir a los peces nadar y a los pájaros
-// volar
-// 4 Agregue cualquier anotación de tipo faltante, siendo lo más explícito posible
+// volar ✅
+// 4 Agregue cualquier anotación de tipo faltante, siendo lo más explícito posible ✅

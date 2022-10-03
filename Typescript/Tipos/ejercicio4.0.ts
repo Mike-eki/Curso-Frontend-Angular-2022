@@ -21,4 +21,4 @@ doStuff({});
 console.log('[Ejercicio 4.1]');
 // Simplemente inspeccione los tipos posibles moviéndose sobre el ’texto’ para ver cómo
 // cambia el tipo inferido si se pueden hacer suposiciones de forma segura sobre los tipos
-// posibles dentro de la ruta del código dado
+// posibles dentro de la ruta del código dado 

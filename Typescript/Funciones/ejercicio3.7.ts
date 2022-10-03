@@ -39,6 +39,6 @@ const incrementedByTwo = numberCollection.map((num) => num + 2);
 console.log('[Ejercicio 3.7]', `[${incrementedByTwo}] debe ser igual a [3,4,5]`);
 // 1 Implementar ‘pushToCollection‘ como una función genérica. (Esto debería crear errores
 // en tiempo de compilación en lugares donde se agregan valores incorrectos a una colección
-// determinada. Fije estos valores a los tipos correctos)
+// determinada. Fije estos valores a los tipos correctos) ✅
 // 2 Una vez hecho genérico, ‘pushToCollection‘ debe ser suficientemente *generic* para operar
-// en artículos y colecciones de cualquier tipo mientras se continúa aplicando que conicidan
+// en artículos y colecciones de cualquier tipo mientras se continúa aplicando que conicidan ✅

@@ -16,5 +16,5 @@ console.log(
   `El nombre de la nueva persona es ${jane.name}.`,
   `Tiene ${jane.age} años`
 );
-// 1 Añadir tipos de parámetros explícitos al constructor
-// 2 Agregue parámetros con tipos para almacenar valores
+// 1 Añadir tipos de parámetros explícitos al constructor ✅
+// 2 Agregue parámetros con tipos para almacenar valores ✅

@@ -19,4 +19,4 @@ console.log(
  ${padLeft("", "")}
  `
 );
-// Use un protector de tipo para completar el cuerpo de la función ‘padLeft‘
+// Use un protector de tipo para completar el cuerpo de la función ‘padLeft‘ ✅

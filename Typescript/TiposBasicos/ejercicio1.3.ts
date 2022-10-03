@@ -1,6 +1,6 @@
 // Ejercicio 1.3
 // Dado el siguiente codigo:
-// 1 Inspeccione el error, luego corríjalo
+// 1 Inspeccione el error, luego corríjalo ✅
 
 let esPablo: boolean;
 esPablo = false;

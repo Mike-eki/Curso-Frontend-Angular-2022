@@ -31,13 +31,13 @@ andrew.move(5);
 
 const sammy = new Snake("Sammy la serpiente");
 sammy.move();
-// console.log(sammy.name); // debe devolver error
+// console.log(sammy.name); // debe devolver error ✅
 
 const pokey = new Pony("Pokey el pony");
 pokey.move(34);
-// console.log(pokey.name); // debe devolver error
+// console.log(pokey.name); // debe devolver error ✅
 
-// 1 Añadir tipos
-// 2 Hacer que la clase Snake herede de Animal
-// 2 Hacer que la clase Pony herede Animal
-// 2 Hacer que el miembro del nombre no pueda ser accedido públicamente
+// 1 Añadir tipos ✅
+// 2 Hacer que la clase Snake herede de Animal ✅
+// 2 Hacer que la clase Pony herede Animal ✅
+// 2 Hacer que el miembro del nombre no pueda ser accedido públicamente ✅

@@ -1,6 +1,11 @@
-// Este ejercicio es exactamente igual que el 4.4
-// Por lo que asumo que se resolvera de la misma manera
 
+/*
+    >ATENCIÓN<
+
+ Este ejercicio es exactamente igual que el 4.4
+ Por lo que se asume que se resolvera de la misma manera
+
+*/
 
 // // Dado el siguiente codigo:
 // interface EggLayer {

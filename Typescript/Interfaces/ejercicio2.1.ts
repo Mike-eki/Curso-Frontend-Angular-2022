@@ -5,8 +5,8 @@ function agregarAlCarro(item: CartItem) {
 }
 
 agregarAlCarro( { id: 1, titulo: 'Zapatos de cuero' });
-// Crea una interfaz ‘CartItem‘ y reemplaza el tipo de parametros con ella
-// Hacer idVariante opcional
+// Crea una interfaz ‘CartItem‘ y reemplaza el tipo de parametros con ella ✅
+// Hacer idVariante opcional ✅
 
 interface CartItem {
     id? : number;

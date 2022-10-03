@@ -4,5 +4,5 @@ function layEggs(quantity : number = 0, color : string = '') : void {
 }
 
 layEggs(7, 'Marrones');
-// Añadir anotación de tipo de parámetro
-// A pesar de que esta función no vuelve, agregue un tipo de retorno explícito
+// Añadir anotación de tipo de parámetro ✅
+// A pesar de que esta función no vuelve, agregue un tipo de retorno explícito ✅

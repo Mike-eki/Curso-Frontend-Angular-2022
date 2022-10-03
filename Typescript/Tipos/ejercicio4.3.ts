@@ -21,6 +21,6 @@ function flatten<T>(array : T[]) : T[] {
 const flattenedNumbers = flatten(numbers);
 
 console.log("[Ejercicio 4.3]", flattenedNumbers);
-// 1 Añadir anotaciones de tipo (‘any‘ excluido)
-// 2 Inspeccione el tipo de ‘element‘ en diferentes ramas de código
-// 3 Bonificación: convertir ‘flatten‘ en una función genérica
+// 1 Añadir anotaciones de tipo (‘any‘ excluido) ✅
+// 2 Inspeccione el tipo de ‘element‘ en diferentes ramas de código ✅
+// 3 Bonificación: convertir ‘flatten‘ en una función genérica ✅

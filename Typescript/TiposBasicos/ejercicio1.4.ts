@@ -1,7 +1,7 @@
 // Ejercicio 1.4
 // Dado el siguiente codigo:
-// 1 Añadir anotaciones de tipo (lo más explícitas posible)
-// 2 Solucionar errores (si corresponde)
+// 1 Añadir anotaciones de tipo (lo más explícitas posible) ✅
+// 2 Solucionar errores (si corresponde) ✅
 const entero : number = 6;
 const decimal : number = 6.66;
 const hexadecimal : number = 0xf00d;

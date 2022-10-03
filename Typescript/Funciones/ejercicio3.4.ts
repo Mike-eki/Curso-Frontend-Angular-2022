@@ -7,5 +7,5 @@ const defaultGreeting = greet();
 const portugueseGreeting = greet('Oi como vai!');
 
 console.log('[Ejercicio 3.4]', defaultGreeting, portugueseGreeting);
-// Añadir tipos explícitos a los parámetros y tipo de retorno
-// Añadir un saludo predeterminado: ”hola”
+// Añadir tipos explícitos a los parámetros y tipo de retorno ✅
+// Añadir un saludo predeterminado: ”hola” ✅ 

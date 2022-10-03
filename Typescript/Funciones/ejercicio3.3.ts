@@ -16,7 +16,7 @@ function getPointsFor(letter : string) : number {
         ['QZ', 10],
     ];
 
-    return lettersAndPoints.reduce((computedScore : number, pointsTuple : [string, number]) => {
+    return lettersAndPoints.reduce((computedScore : number, pointsTuple : [string, number]) : number => {
         const [letters, score] : [string, number] = pointsTuple;
         if (letters.split('').find((ll) => ll === letter)) {
             return computedScore += score;
@@ -26,4 +26,4 @@ function getPointsFor(letter : string) : number {
 }
 
 console.log('[Ejercicio 3.3]', `zoologico vale ${computeScore('zoo')} puntos.`);
-// Añadir anotaciones de tipo siempre que sea posible
+// Añadir anotaciones de tipo siempre que sea posible ✅

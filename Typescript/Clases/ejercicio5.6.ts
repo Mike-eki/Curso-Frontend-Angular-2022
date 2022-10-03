@@ -13,4 +13,4 @@ class Student {
 const student = new Student("Morty");
 console.log(Student.school);
 student.introduction();
-// 1 Elimine el error sin cambiar las referencias a ‘Student.school‘
+// 1 Elimine el error sin cambiar las referencias a ‘Student.school‘ ✅
