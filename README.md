@@ -11,4 +11,4 @@ En la carpeta [**Typescript**](https://github.com/microsoft/TypeScript) estan to
 
 ## Labs de Angular
 
-En la carpeta **curso_angular** estan todos los ejercicios que utilizan todas las caracteristicas que posee el framework Angular
+En la carpeta [**curso_angular**](https://github.com/ldiamand/curso_angular) estan todos los ejercicios que utilizan todas las caracteristicas que posee el framework Angular
